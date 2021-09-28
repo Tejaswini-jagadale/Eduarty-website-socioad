@@ -1905,11 +1905,9 @@ background:#062b63 ;/*#031e3b   */
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-   background: #12c9ae; 
-  
-  color: #fff;
+  background: #fff; 
+  color: #000 !important;
   line-height: 1;
-
   padding: 8px 0;
   margin-right: 4px;
   border-radius: 50%;
