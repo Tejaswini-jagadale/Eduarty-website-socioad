@@ -1759,10 +1759,11 @@ list-style: none;
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  color: #37423b;
+  color: #fff;
   font-size: 14px;
-  background: #eef0ef;
+  background:#000 ;/* #eef0ef */
 }
+
 
 #footer .footer-top {
 padding: 60px 0 30px 0;
